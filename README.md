@@ -15,4 +15,5 @@ This project analyzes retail sales data from 01-01-2021 to 08-03-2023 across mul
 2. Top Performers - Mall of Istanbul and Kanyon led with €51M each in revenue. Clothing dominates as the #1 category with €114M revenue and 104K units sold.
 3. Product Analysis - Clothing, Shoes €67M, and Technology €58M are the top 3 categories by revenue. Cosmetics and Toys show lower performance at €7M and €4M.
 4. Trend Analysis - Revenue Trend 2021-2023 YTD shows consistent monthly performance, with 2023 data ending 08-03-2023.
-5. ![Dashboard](https://github.com/user-attachments/assets/38a979e1-edf4-4ea4-9682-daacb614f83f)
+#### Dashboard of Retail Sales 
+ ![Dashboard](https://github.com/user-attachments/assets/38a979e1-edf4-4ea4-9682-daacb614f83f)
